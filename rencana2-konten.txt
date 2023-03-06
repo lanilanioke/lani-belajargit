@@ -2,5 +2,6 @@ rencana saya belajar html
 css
 -bootsterep
 -telwind
+belajar fundamental
 js
 php
